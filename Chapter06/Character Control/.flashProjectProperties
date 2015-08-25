@@ -1,0 +1,22 @@
+<projectDescription>
+  <id>1235773656891</id>
+  <name>characterControl</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///Macintosh HD/Users/rex/Library/Application Support/Adobe/Flash CS4/en/Configuration/Project/templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///Macintosh HD/Users/rex/Library/Application Support/Adobe/Flash CS4/en/Configuration/Project/templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp>file:///Macintosh HD/Rex/Books/Foundation Game Design/Foundation Game Design with Flash/code_FINAL/Chapter06/Character Control/characterControl.fla</defaultApp>
+  <rootURI>file:///Macintosh HD/Rex/Books/Foundation Game Design/Foundation Game Design with Flash/code_FINAL/Chapter06/Character Control/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false"/>
+  <recentFiles editable="false">
+    <uri label="Main_StageBoundaries.as">file:///Macintosh HD/Rex/Books/Foundation Game Design/Foundation Game Design with Flash/code_FINAL/Chapter06/Character Control/Main_StageBoundaries.as</uri>
+    <uri label="Main_Character.as">file:///Macintosh HD/Rex/Books/Foundation Game Design/Foundation Game Design with Flash/code_FINAL/Chapter06/Character Control/Main_Character.as</uri>
+    <uri label="Main_Character_Two.as">file:///Macintosh HD/Rex/Books/Foundation Game Design/Foundation Game Design with Flash/code_FINAL/Chapter06/Character Control/Main_Character_Two.as</uri>
+    <uri label="characterControl.fla">file:///Macintosh HD/Rex/Books/Foundation Game Design/Foundation Game Design with Flash/code_FINAL/Chapter06/Character Control/characterControl.fla</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>

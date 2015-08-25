@@ -1,0 +1,23 @@
+<projectDescription>
+  <id>1235201630923</id>
+  <name>aiSystems</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///Macintosh HD/Users/rex/Library/Application Support/Adobe/Flash CS4/en/Configuration/Project/templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///Macintosh HD/Users/rex/Library/Application Support/Adobe/Flash CS4/en/Configuration/Project/templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp>file:///C|/Users/AshyPants/Pictures/PhotoShop Work/Flash Practice/Tutorials/Foundation_Game_Design_with_Flash/Foundation_Game_Design_with_Flash/Chapter10/AI Systems/aiSystems.fla</defaultApp>
+  <rootURI>file:///C|/Users/AshyPants/Pictures/PhotoShop Work/Flash Practice/Tutorials/Foundation_Game_Design_with_Flash/Foundation_Game_Design_with_Flash/Chapter10/AI Systems/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false"/>
+  <recentFiles editable="false">
+    <uri label="Robot_Run.as">file:///C|/Users/AshyPants/Pictures/PhotoShop Work/Flash Practice/Tutorials/Foundation_Game_Design_with_Flash/Foundation_Game_Design_with_Flash/Chapter10/AI Systems/Robot_Run.as</uri>
+    <uri label="Robot_Follow.as">file:///C|/Users/AshyPants/Pictures/PhotoShop Work/Flash Practice/Tutorials/Foundation_Game_Design_with_Flash/Foundation_Game_Design_with_Flash/Chapter10/AI Systems/Robot_Follow.as</uri>
+    <uri label="aiSystems.swf">file:///C|/Users/AshyPants/Pictures/PhotoShop Work/Flash Practice/Tutorials/Foundation_Game_Design_with_Flash/Foundation_Game_Design_with_Flash/Chapter10/AI Systems/aiSystems.swf</uri>
+    <uri label="Player.as">file:///C|/Users/AshyPants/Pictures/PhotoShop Work/Flash Practice/Tutorials/Foundation_Game_Design_with_Flash/Foundation_Game_Design_with_Flash/Chapter10/AI Systems/Player.as</uri>
+    <uri label="Robot.as">file:///C|/Users/AshyPants/Pictures/PhotoShop Work/Flash Practice/Tutorials/Foundation_Game_Design_with_Flash/Foundation_Game_Design_with_Flash/Chapter10/AI Systems/Robot.as</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>

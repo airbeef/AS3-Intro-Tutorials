@@ -1,0 +1,1 @@
+﻿package  {	import flash.display.MovieClip;		public class Square extends MovieClip	{		public function Square() 		{ 			trace("It's me, Square! Thanks for making me!");		}	}}

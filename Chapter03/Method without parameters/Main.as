@@ -1,0 +1,1 @@
+﻿package {	import flash.display.MovieClip;	public class Main extends MovieClip	{		public function Main()		{			displayText();		}		function displayText():void		{			trace("This is text from the function definition");		}	}}

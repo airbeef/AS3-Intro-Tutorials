@@ -1,0 +1,23 @@
+<projectDescription>
+  <id>1229368943745</id>
+  <name>dungeonMaze</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///Macintosh HD/Applications/Adobe Flash CS4/Common/First Run/Project/templates/classTemplate.as</boundTemplate>
+  <classTemplate>file:///Macintosh HD/Applications/Adobe Flash CS4/Common/First Run/Project/templates/classTemplate.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp>file:///C|/Users/AshyPants/Pictures/PhotoShop Work/Flash Practice/Tutorials/Foundation_Game_Design_with_Flash/Foundation_Game_Design_with_Flash/Chapter08/dungeonMaze.fla</defaultApp>
+  <rootURI>file:///C|/Users/AshyPants/Pictures/PhotoShop Work/Flash Practice/Tutorials/Foundation_Game_Design_with_Flash/Foundation_Game_Design_with_Flash/Chapter08/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false"/>
+  <recentFiles editable="false">
+    <uri label="Bullet_FourDirections.as">file:///C|/Users/AshyPants/Pictures/PhotoShop Work/Flash Practice/Tutorials/Foundation_Game_Design_with_Flash/Foundation_Game_Design_with_Flash/Chapter08/Bullet_FourDirections.as</uri>
+    <uri label="DungeonOne_Manager.as">file:///C|/Users/AshyPants/Pictures/PhotoShop Work/Flash Practice/Tutorials/Foundation_Game_Design_with_Flash/Foundation_Game_Design_with_Flash/Chapter08/DungeonOne_Manager.as</uri>
+    <uri label="Player.as">file:///C|/Users/AshyPants/Pictures/PhotoShop Work/Flash Practice/Tutorials/Foundation_Game_Design_with_Flash/Foundation_Game_Design_with_Flash/Chapter08/Player.as</uri>
+    <uri label="Weapon.as">file:///C|/Users/AshyPants/Pictures/PhotoShop Work/Flash Practice/Tutorials/Foundation_Game_Design_with_Flash/Foundation_Game_Design_with_Flash/Chapter08/Weapon.as</uri>
+    <uri label="Collision.as">file:///C|/Users/AshyPants/Pictures/PhotoShop Work/Flash Practice/Tutorials/Foundation_Game_Design_with_Flash/Foundation_Game_Design_with_Flash/Chapter08/Collision.as</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>

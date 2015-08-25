@@ -1,0 +1,21 @@
+<projectDescription>
+  <id>1237527029865</id>
+  <name>bugCatcher_Finished</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///Macintosh HD/Users/rex/Library/Application Support/Adobe/Flash CS4/en/Configuration/Project/templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///Macintosh HD/Users/rex/Library/Application Support/Adobe/Flash CS4/en/Configuration/Project/templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp>file:///C|/Users/AshyPants/Pictures/PhotoShop Work/Flash Practice/Tutorials/Foundation_Game_Design_with_Flash/Foundation_Game_Design_with_Flash/Chapter09/Bug Catcher Finished/bugCatcher_Finished.fla</defaultApp>
+  <rootURI>file:///C|/Users/AshyPants/Pictures/PhotoShop Work/Flash Practice/Tutorials/Foundation_Game_Design_with_Flash/Foundation_Game_Design_with_Flash/Chapter09/Bug Catcher Finished/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false">
+    <uri label="bugCatcher.fla">file:///Macintosh HD/Rex/Books/Foundation Game Design/Foundation Game Design with Flash/code_FINAL/Chapter09/Bug Catcher Finished/bugCatcher.fla</uri>
+  </compileList>
+  <recentFiles editable="false">
+    <uri label="Main_BugCatcher.as">file:///C|/Users/AshyPants/Pictures/PhotoShop Work/Flash Practice/Tutorials/Foundation_Game_Design_with_Flash/Foundation_Game_Design_with_Flash/Chapter09/Bug Catcher Finished/Main_BugCatcher.as</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>

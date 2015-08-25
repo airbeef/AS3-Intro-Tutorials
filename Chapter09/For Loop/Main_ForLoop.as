@@ -1,0 +1,1 @@
+﻿package {	import flash.display.MovieClip;	public class Main_ForLoop extends MovieClip	{		public function Main_ForLoop()		{			for(var i:int = 0; i < 5; i++)			{                                                                                            				trace(i);			}		}	}}

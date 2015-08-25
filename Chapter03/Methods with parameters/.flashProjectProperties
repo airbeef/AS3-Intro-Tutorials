@@ -1,0 +1,23 @@
+<projectDescription>
+  <id>1230696458913</id>
+  <name>Method with parameters</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///Macintosh HD/Users/rex/Library/Application Support/Adobe/Flash CS4/en/Configuration/Project/templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///Macintosh HD/Users/rex/Library/Application Support/Adobe/Flash CS4/en/Configuration/Project/templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp>file:///Macintosh HD/Rex/Books/Foundation Game Design/Foundation Game Design with Flash/code/Arguments and Parameters/methodWithoutParameters.fla</defaultApp>
+  <rootURI>file:///Macintosh HD/Rex/Books/Foundation Game Design/Foundation Game Design with Flash/code/Arguments and Parameters/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false">
+    <uri label="argumentsAndParameters.fla">file:///Macintosh HD/Rex/Books/Foundation Game Design/Foundation Game Design with Flash/code/Arguments and Parameters/argumentsAndParameters.fla</uri>
+    <uri label="methodWithoutParameters.fla">file:///Macintosh HD/Rex/Books/Foundation Game Design/Foundation Game Design with Flash/code/Arguments and Parameters/methodWithoutParameters.fla</uri>
+  </compileList>
+  <recentFiles editable="false">
+    <uri label="Main.as">file:///Macintosh HD/Rex/Books/Foundation Game Design/Foundation Game Design with Flash/code/Arguments and Parameters/Main.as</uri>
+    <uri label="methodWithoutParameters.fla">file:///Macintosh HD/Rex/Books/Foundation Game Design/Foundation Game Design with Flash/code/Arguments and Parameters/methodWithoutParameters.fla</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>

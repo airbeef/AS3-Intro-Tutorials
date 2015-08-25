@@ -1,0 +1,25 @@
+<projectDescription>
+  <id>1236196212897</id>
+  <name>interactivePlayground</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///Macintosh HD/Users/rex/Library/Application Support/Adobe/Flash CS4/en/Configuration/Project/templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///Macintosh HD/Users/rex/Library/Application Support/Adobe/Flash CS4/en/Configuration/Project/templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp>file:///Macintosh%20HD/Rex/Books/Foundation%20Game%20Design/Foundation%20Game%20Design%20with%20Flash/code_FINAL/Chapter07/interactivePlayground_Finished.fla</defaultApp>
+  <rootURI>file:///Macintosh%20HD/Rex/Books/Foundation%20Game%20Design/Foundation%20Game%20Design%20with%20Flash/code_FINAL/Chapter07/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false">
+    <uri label="interactivePlayground_Finished.fla">file:///Macintosh HD/Rex/Books/Foundation Game Design/Foundation Game Design with Flash/code_FINAL/Chapter07/interactivePlayground_Finished.fla</uri>
+  </compileList>
+  <recentFiles editable="false">
+    <uri label="interactivePlayground_Finished.fla">file:///Macintosh HD/Rex/Books/Foundation Game Design/Foundation Game Design with Flash/code_FINAL/Chapter07/interactivePlayground_Finished.fla</uri>
+    <uri label="Main_Playground.as">file:///Macintosh HD/Rex/Books/Foundation Game Design/Foundation Game Design with Flash/code_FINAL/Chapter07/Main_Playground.as</uri>
+    <uri label="Main_Playground_9.as">file:///Macintosh HD/Rex/Books/Foundation Game Design/Foundation Game Design with Flash/code_FINAL/Chapter07/Main_Playground_9.as</uri>
+    <uri label="interactivePlayground.fla">file:///Macintosh HD/Rex/Books/Foundation Game Design/Foundation Game Design with Flash/code_FINAL/Chapter07/interactivePlayground.fla</uri>
+    <uri label="interactivePlayground_FInished.fla">file:///Macintosh HD/Rex/Books/Foundation Game Design/Foundation Game Design with Flash/code_FINAL/Chapter07/interactivePlayground_FInished.fla</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>

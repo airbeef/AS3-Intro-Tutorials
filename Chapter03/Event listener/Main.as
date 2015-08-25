@@ -1,0 +1,1 @@
+﻿package {	import flash.display.MovieClip;	import flash.events.MouseEvent;	public class Main extends MovieClip	{		public function Main()		{			stage.addEventListener(MouseEvent.CLICK, onClick);		}		function onClick(event:MouseEvent):void		{			trace("You clicked on the stage");		}	}}

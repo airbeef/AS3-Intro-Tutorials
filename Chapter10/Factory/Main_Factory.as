@@ -1,0 +1,1 @@
+﻿package  {	import flash.display.MovieClip;	import flash.events.Event;		public class Main_Factory extends MovieClip	{		public function Main_Factory() 		{ 			var shape:MovieClip = ShapeMaker.makeShape("square");			trace("The shape object created is: " + shape);		}	}}

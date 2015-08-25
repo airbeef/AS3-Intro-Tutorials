@@ -1,0 +1,1 @@
+﻿package  {	import flash.display.MovieClip;		public class Circle extends MovieClip	{		public function Circle() 		{ 			trace("Hello from the Circle class! Circles are fun!");		}	}}

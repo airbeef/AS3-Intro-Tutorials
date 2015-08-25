@@ -1,0 +1,1 @@
+﻿package {	import flash.display.MovieClip;	import flash.events.MouseEvent;	public class Main extends MovieClip	{		//Declare variables here		public function Main()		{			//Programming code will go here		}	}}

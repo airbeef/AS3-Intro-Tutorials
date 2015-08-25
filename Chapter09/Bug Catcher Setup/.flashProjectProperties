@@ -1,0 +1,22 @@
+<projectDescription>
+  <id>1231917878931</id>
+  <name>bugCatcher</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///Macintosh HD/Users/rex/Library/Application Support/Adobe/Flash CS4/en/Configuration/Project/templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///Macintosh HD/Users/rex/Library/Application Support/Adobe/Flash CS4/en/Configuration/Project/templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp>file:///C|/Users/AshyPants/Pictures/PhotoShop Work/Flash Practice/Tutorials/Foundation_Game_Design_with_Flash/Foundation_Game_Design_with_Flash/Chapter09/Bug Catcher Setup/bugCatcher.fla</defaultApp>
+  <rootURI>file:///C|/Users/AshyPants/Pictures/PhotoShop Work/Flash Practice/Tutorials/Foundation_Game_Design_with_Flash/Foundation_Game_Design_with_Flash/Chapter09/Bug Catcher Setup/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false"/>
+  <recentFiles editable="false">
+    <uri label="Main_BugCatcher.as">file:///C|/Users/AshyPants/Pictures/PhotoShop Work/Flash Practice/Tutorials/Foundation_Game_Design_with_Flash/Foundation_Game_Design_with_Flash/Chapter09/Bug Catcher Setup/Main_BugCatcher.as</uri>
+    <uri label="Player_Platform.as">file:///C|/Users/AshyPants/Pictures/PhotoShop Work/Flash Practice/Tutorials/Foundation_Game_Design_with_Flash/Foundation_Game_Design_with_Flash/Chapter09/Bug Catcher Setup/Player_Platform.as</uri>
+    <uri label="bugCatcher.fla">file:///C|/Users/AshyPants/Pictures/PhotoShop Work/Flash Practice/Tutorials/Foundation_Game_Design_with_Flash/Foundation_Game_Design_with_Flash/Chapter09/Bug Catcher Setup/bugCatcher.fla</uri>
+    <uri label="Collision.as">file:///C|/Users/AshyPants/Pictures/PhotoShop Work/Flash Practice/Tutorials/Foundation_Game_Design_with_Flash/Foundation_Game_Design_with_Flash/Chapter09/Bug Catcher Setup/Collision.as</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>
